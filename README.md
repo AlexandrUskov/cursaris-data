@@ -1,2 +1,0 @@
-# cursaris-data
-Cursaris-data
